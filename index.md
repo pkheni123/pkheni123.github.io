@@ -12,5 +12,5 @@ My name is Parth Kheni, I am enrolled as a student at California State Universit
  >The objective of this lab was to use the power of the terminal to gather user inputs and put them into a list to be used later. In this case the inputs were gathered from the user using the command line. These three inputs would then be put into a frame, a sort of "fill in the blank" as seen in the example where "a", "b" , and "c" are used. I liked this lab because of how simple it was, however it showed how multiple user inputs can be taken as strings and can be used for many, more complex, things, like being converted into integer values to then possibly create a calculator that can add all the numbers given no matter how many. 
 - Lab 8 Part 2 
 ![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZ3N3ByaTFlN2Z0dzhiMTR3Y3I5aTk3enBsbjltbW8wZG5vanE3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uaA56NqrlMK3cWQQm5/giphy.gif)
- >In this lab me and 
+ >In this lab we were tasked with using the command line to take from one to as many arguments(inputs) as the user requires. The program takes all the command line inputs and adds them together then takes the amount of inputs and divides the sum by that number to get the average of all of the inputs. I liked this lab because of how flexible it is. It is not limited by the amount of inputs it can take. It can take 2 or 42.
 
